@@ -16,10 +16,5 @@ namespace github
         {
             InitializeComponent();
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            123242145123213
-        }
     }
 }
