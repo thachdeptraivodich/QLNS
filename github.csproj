@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="caculation.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="Diem.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
